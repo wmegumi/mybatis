@@ -46,13 +46,13 @@
    - 7.4 大数据量场景的处理方案
 
 ## 8. MyBatis与其他ORM框架在Spring生态中的对比
-   - 9.1 MyBatis vs Hibernate在Spring中的集成差异
-   - 9.2 MyBatis vs JPA vs Spring Data JDBC
-   - 9.3 不同场景下的框架选择策略
+   - 8.1 MyBatis vs Hibernate在Spring中的集成差异
+   - 8.2 MyBatis vs JPA vs Spring Data JDBC
+   - 8.3 不同场景下的框架选择策略
 
 ## 9. 结论与展望
-    - 11.1 MyBatis在Spring生态中的适用场景
-    - 11.2 未来发展趋势与技术演进
-    - 11.3 学习路径与深入研究建议
+    - 9.1 MyBatis在Spring生态中的适用场景
+    - 9.2 未来发展趋势与技术演进
+    - 9.3 学习路径与深入研究建议
 
 ## 参考文献
